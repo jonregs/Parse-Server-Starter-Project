@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/2d3334b2222578273a733932b5c2fa844d2fe14d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_123c901ac0e5d7a509a2c2b2d20fe27d4debcde3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/85be5560b83f39d0c644aecef727275c69300761/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f20612e81c579551b928839bd1fe8c2d4e57d9f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/293de3354719a806851c04beefe88e115f70c620/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_deb9186936f505619a99516bf31120a8e1ffea8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/44a134f4697e44fe2defe700bb834596ec7159b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af08d3918a57a0c1901cfa298a4d539dc8a21d78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/1015440db98e58dd81fa334c4f6b1e9c582836fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd70f657e2e5d2ec23c574bbd62bfd85160797da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/ff3fa2e78ce77653cea4ec4344bd73ef32a08487/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b231ec166e3df20932ef3b01c953c01a42bb657/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/f3cf6403ee1e39976984b5aabd1b27eb10ccb75c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_374c757125d1cd0f019222e78f41b997f0962029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/354787d8dfdc7da79853b3c0ad7f00f53a570acc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_169600ba91f95b94a1dad66a8f2fd26522a82904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/0dd2ced9a4c36376b082a48ba48c884eb549fde8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ee0ab4e2e05b0fed7dc0d88f1c4e8c3721a7679/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/655ec945218c0bd4f1c6866ed019463ea568883d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69c8a6213ae94fb9b15bca6ecf7fabe46ab586c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/becdcead43c278f4f4917e82273c3b739b2fd3c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93568a57ba9086508d2c681b2d6bfae248bb3397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/246b8fcc32a64de6840f436e3a0fa40ce18c2d58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9bcd1fcd56de38737459f5b5d406b782f962210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/7d9d6c7b90e30fba8ed4b5e9fb2d245fa0c8a01b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_854a60913c7dc7f4c06207f018c212c3c06c6f55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/3bf617aa647f109e3bebb1bdb5e00e725f5cd536/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6840fdb8e70605ebf3f5eaaeb539f7c508d59d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/8d7560bb3dda696464c05128fea9916167319d2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2a304cd80b056fe16b125e0db8816140029361a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/45a8eb685dbf695001b8b9b524b0a7bcf9e5694f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff6c93019405561d499f68b868987519f6cafcab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/45b8e4f85a0a46aec3d876e644e794796711a920/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad22ed145b932c2abba3b76d60b96beebde8b465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/4f4693efcd0416418d74cf874c1eafe554c63360/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1262e3a83941cd03af1208ebe69717bb4de60a1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/89241f1921066b9708b6b02a405b1e85ac5271a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f9aa6d069616068f00943860d1a0650bf28801a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/82340d824dcf406e75a32e04b7a365854eab28f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56c3871eb8e3cd02521548e6fbcde8069ea280de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/a3547978f76f6b93df1df7c9c381187e8759e09e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6487f3214f45f781bb1d2efdf9df9680482bd1dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/cdb0fab987581922c0b7fe93948962c7a60799c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f283173edecb848bd5989bdcaeb862370b605624/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/a0805a62496aae511554a37b23e54694b47fed6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc4776f633e2f17f57fad4528ca7c03dc9aee249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/e23f3cd72ddc78516f74657db345d308f994ec0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bb45e989c6935d27f4e44c2cedeef4bac45f7e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/74750204e6ef4f5e69bca2f71ad8fe538323e24a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c434965572dfcbddcf53d9d6f75c8df430a5b596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/13a6a6fbfcaea393837ad45b46583086712c0919/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0285ecc38e74f2c60c1d771b42a8410727604d4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/7f9448e6cab820866dffede5f52feb8f7bd5d9bd/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d04ed5a43d0323fc50acf7defad0c8a12cd97855/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/31e4da822780fa4ad1ff3d923aafd16e905e4949/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52c21356e53cd600c82b862e994186e82add6030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/543174514f6866c2067a4b9e28a713fbbc452781/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40be51a807864a9d642df28254ca68b44d0c52ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/4ba4eff1f9d82ab5a5a09fdb8ed9d08505bac3ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43648fc424fd6e44e1c75ed5f834480b21668715/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/8379fe39b66555d3f5f4e4ab822756a076daf3d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af33cbdf30cba19b6b8b85195ea71bab589bfc9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/fd343125c93715fbd05d965c1a546a1c4a0de092/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6153db367f35167249f3e2fc1d78a3e91ce16e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/a23eaa91627c960fec02dcba5ae9b709ce04de13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d111e80ca99ebf205604217ea5139e91d5622df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/424e2db25611993ca9297f0d390b9ec955111207/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c11e418473987361f3c83aa098d14d31de10e9e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/28e5d101b9eef7f62ad4f6ddbded53089d042821/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afb4f4de53b4c4a3fd69f0b0e387884e9edb6e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_c156f33ac75ec5c8d972bccef9b47a18fbec27ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/1a312d96099a5c7e23930a209ab6c4f163ce91bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c28354c8042239a4b465c4eefc1e6561dda5b186/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/6d98b497f983ec57c2b3a836f4f783b178cb242e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_accc047e67554c25f85fffaf601b7c837505933c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/6937f7aa3879aebeed1addf4da3d425140d492b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c07c61aa104c3f1ccec8571f6792855fc0b0636c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/19add9f853b827a9973be76fa4edde2e687cc69f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bff4a4b1e0674329ce1d0674a4b692a5c88932bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/bb57ffe9711f696338530fd7633996e2d40b00ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed1919923d446553b1bb89365ec7b9350860a2d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/6a074b36e778c6a68927be3e9b616c368152918c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46d46a09255bc8956397863fea671e7d59becb4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/072735416dbfbcb947cff4b02faa286d5957578d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56e7b4fa8317c5811899fa9751e1a535df8a50c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_465975ccb9d66048a67b3c1e46fdcdd45576ad47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/a4f372e813886d05ea70493558e79228d0632640/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b38decb9d41bcf5b6d86b20d9b3a082803d4ec9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e6a2c4d52d08833e7364ce9f9581e60ca719c5f">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34b83c65cb55a9113aaca81c0b5bf9a99eed9682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/a213e263a0f1690b38e67ac1fa7516d152d95682/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d2d8516b9fe5c4b9bfc1e1479e5341fb98f2241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/71b59a4a95a605c55ab5717b372e5f639da8bb96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c60067babd92abd9ed0da17ecaa2f69ca2f4238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/03c55345e8444c14d092bee1240c623cd57dd7ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_220a46d020322e14739c2812ce31b735ef5c5358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/b15038a44150b62687481abec480882cafe6b2d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_669017ecf085d793ea78e59d71a77f3e1f74bc4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/7f9448e6cab820866dffede5f52feb8f7bd5d9bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7666e43a9c5675beb58a05666fe7d095e34109a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_d7795fdc87f868d820d5f56850ccb8c63a43561e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_06e6e28216742f44c35a7fc17ab9d2903d2185f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/48a4c5d53ee0415371d908057e763583cc1fc762/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4fbb939fce4d99c1be614d51110c4e8a1f04565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/cc14edd11b4ad2462ba65b7ff20c5e4d9d81ee8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f424fe3ad9199aaa5895aa9aea2382926fe5dcca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/3bb3e4495065e907f57dbcfbe3b0f9ce02ddf07a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f2c1728300bdde92d928177908ac9855c5a765b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/42bb87f2da5380fc31ba344d318ed463b19e6df1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8a69339b264d85b27ad39928576a74007e39f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/450aa96a21483a2c8a6932de058674c5f9cf55b7/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_83c4fb139e771fe2d34acca195069052453d69e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/fb8aff9418abcb63b26e84d4e11d625a8a198e88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce976fdb4954d1f20b537f54d12a9cd57bd6cba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/450aa96a21483a2c8a6932de058674c5f9cf55b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5628ebf5958a7c63e2c877aa9421a6f7e935db8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonegalado/.android/build-cache/0d79ae3ad36423ea5fe2c81ab7925d69e8c39055/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2b9770b785d7875676e19ea394c8c717cbc07ce/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Wed Jul 05 20:16:37 PDT 2017
+base.0=/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_06e6e28216742f44c35a7fc17ab9d2903d2185f9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34b83c65cb55a9113aaca81c0b5bf9a99eed9682/classes.dex
+base.1=/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34b83c65cb55a9113aaca81c0b5bf9a99eed9682
+file.0=/Users/jonegalado/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_06e6e28216742f44c35a7fc17ab9d2903d2185f9/classes.dex
